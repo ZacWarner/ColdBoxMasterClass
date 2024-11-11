@@ -26,11 +26,13 @@
     "installPaths":{
         "coldbox":"coldbox/",
         "testbox":"testbox/",
-        "cbcommons":"modules/cbcommons/"
+        "cbcommons":"modules/cbcommons/",
+        "cbantisamy":"modules/cbantisamy/"
     },
     "dependencies":{
         "coldbox":"^7.0.0",
-        "cbcommons":"^1.1.0"
+        "cbcommons":"^1.1.0",
+        "cbantisamy":"^2.1.0+1"
     },
     "scripts":{},
     "testbox":{
